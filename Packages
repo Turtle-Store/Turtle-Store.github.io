@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: TheBigCheese2017
 Depends: mobilesubstrate (>= 0.9.5000), me.chewitt.cmc
-Filename: debs/messages/Beaches.deb
+Filename: debs/Beaches.deb
 Size: 157648
 MD5sum: 71d43727acaec80291bf267bfa38e6ea
 SHA1: 400adf6938f7068e3a2dd5acb493ac6dc935092b
@@ -13,4 +13,36 @@ Homepage: https://raw.githubusercontent.com/DisJJ/DisJJ.github.io/master/Screens
 Description: My messages setup on iOS 9.0.2 right before I lost it :/
 Author: Osito
 Name: Beaches
+
+Package: com.osito.beauty
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheBigCheese2017
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.fidele007.hotdog
+Filename: debs/beauty.deb
+Size: 1609974
+MD5sum: 03fe4dc8a9e10230034d6c11a3aef300
+SHA1: b4cd0a66853536572221323ffb69209692617b90
+SHA256: 1cfcea29a9f91c7f36fe05346371fd6b5805d4d387276768e6dab47d6beb0c4a
+Section: Setups (LS)
+Priority: optional
+Description: My beautiful love <3
+Author: Osito
+Name: Beauty
+
+Package: com.osito.repoicons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheBigCheese2017
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/tweaks/RepoIcons.deb
+Size: 4242
+MD5sum: d0b4033ee5487c01dbda013212272d72
+SHA1: 4b130f89b674fd7695bf950b2e49c65e8066dbd3
+SHA256: b8c48e932ffc2a7ec3c62224b12bf7c87d1d942eda31ddc08d163bda389162bd
+Section: Tweaks
+Description: Repository Icons
+Tag: extension
+Author: Osito
+Name: Repo Icons
 

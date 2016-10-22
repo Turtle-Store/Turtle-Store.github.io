@@ -1,0 +1,11 @@
+Name: Beauty
+Package: com.osito.beauty
+Priority: optional
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.fidele007.hotdog
+Architecture: iphoneos-arm
+Description: My beautiful love <3
+Maintainer: TheBigCheese2017
+Author: Osito
+Section: Setups (LS)
+Version: 1.0
+Homepage: https://raw.githubusercontent.com/Turtle-Store/Turtle-Store.github.io/master/screenshots/hotdog/Beauty/IMG_2759.PNG

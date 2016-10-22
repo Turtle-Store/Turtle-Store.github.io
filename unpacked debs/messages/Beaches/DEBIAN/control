@@ -1,0 +1,10 @@
+Package: com.osito.beaches
+Name: Beaches
+Version: 1.0
+Architecture: iphoneos-arm
+Author: Osito
+Depends: mobilesubstrate (>= 0.9.5000), me.chewitt.cmc
+Description: My messages setup on iOS 9.0.2 right before I lost it :/
+Maintainer: TheBigCheese2017
+Section: Setups (Messages)
+Homepage: https://raw.githubusercontent.com/Turtle-Store/Turtle-Store.github.io/master/screenshots/messages/Beaches/Beaches.PNG

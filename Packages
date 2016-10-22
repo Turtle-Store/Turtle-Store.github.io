@@ -1,3 +1,23 @@
+Package: com.alexzielenski.tinybar
+Version: 0.1.5-1+debug
+Architecture: iphoneos-arm
+Maintainer: Alex Zielenski
+Installed-Size: 488
+Depends: firmware (>= 7.0.2), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/tweaks/com.alexzielenski.tinybar_0.1.5-1+debug_iphoneos-arm.deb
+Size: 73556
+MD5sum: 61546dfc8d7d0972d775621df083b5a8
+SHA1: 0b690c47a4ad3350891618ca9e36d49add75a52d
+SHA256: 666eae596921323645541accae0b3572978898f78633d8ef8de45eb18894ae3a
+Section: Tweaks
+Priority: optional
+Homepage: http://www.alexzielenski.com
+Description: Thins notification banners down to size!
+Author: Alex Zielenski <http://www.alexzielenski.com>
+Depiction: http://repo.alexzielenski.com/depictions/TinyBar.html
+Name: TinyBar
+Sponsor: Alex Zielenski <support@alexzielenski.com>
+
 Package: com.osito.beaches
 Version: 1.0
 Architecture: iphoneos-arm

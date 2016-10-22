@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: TheBigCheese2017
 Depends: mobilesubstrate (>= 0.9.5000), me.chewitt.cmc
-Filename: ./messages/Beaches.deb
+Filename: ./debs/messages/Beaches.deb
 Size: 157648
 MD5sum: 71d43727acaec80291bf267bfa38e6ea
 SHA1: 400adf6938f7068e3a2dd5acb493ac6dc935092b
@@ -19,7 +19,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: TheBigCheese2017
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.fidele007.hotdog
-Filename: ./hotdog/beauty.deb
+Filename: ./debs/hotdog/beauty.deb
 Size: 1609974
 MD5sum: 03fe4dc8a9e10230034d6c11a3aef300
 SHA1: b4cd0a66853536572221323ffb69209692617b90
@@ -30,12 +30,109 @@ Description: My beautiful love <3
 Author: Osito
 Name: Beauty
 
+Package: com.osito.corneredgeo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheBigCheese2017
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.fidele007.hotdog, com.alcovedevteam.fuse
+Filename: ./rebuilding/Cornered (Geo Sans Light Edition).deb
+Size: 2282798
+MD5sum: 482a24005721283dd0ea0084e192b790
+SHA1: 10817a3fc73a04ca5b8160b2d2c71347bf8c6d73
+SHA256: df5fdbc120993d3d56364ee9f136227a8c11280946100ec5fe70de917c310bb4
+Section: Setups (LS)
+Priority: optional
+Homepage: https://raw.githubusercontent.com/DisJJ/DisJJ.github.io/master/Screenshots/Lockscreen/Cornered%20(Geo%20Sans%20Light%20Edition)/Cornered%20(Geo%20Sans%20Light%20Edition).PNG
+Description: Put those things on the side for Geo Sans :p Be sure to have that font installed!!!!
+Author: Osito
+Name: Cornered (Geo Sans Light Edition)
+
+Package: com.osito.fused
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheBigCheese2017
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist,com.alcovedevteam.fuse, com.fidele007.hotdog
+Filename: ./rebuilding/Fused.deb
+Size: 265710
+MD5sum: 18ac5126acf24cb9e0404be997a29291
+SHA1: 48c05411cf2c92dab60e9de0e4969a790fc383a4
+SHA256: 77ff099442ced29efd24fc34c310972c7283619368c3ec8092d86e8ade5015a4
+Section: Setups (LS)
+Homepage: https://raw.githubusercontent.com/DisJJ/DisJJ.github.io/master/Screenshots/Lockscreen/Fused/Fused.PNG
+Description: Recommended to have Bars and KitKat Battery installed for the full experience.
+Author: Osito
+Name: Fused
+
+Package: com.osito.helloagain
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheBigCheese2017
+Depends: mobilesubstrate (>= 0.9.5000), com.aditkamath.springy
+Filename: ./debs/springy addons/helloagain/HelloAgain.deb
+Size: 14487626
+MD5sum: 8806b81a79fcb040cebf106142f6be09
+SHA1: d26f27c9746222a2bfe563b16b55e18ca3c73a14
+SHA256: 08f55ddeedde4274add7f60a4f9544c618276d686c4488b21c19ee5e21d99c21
+Section: Addons (Springy)
+Homepage: https://www.google.com
+Description: Apple Event inspired Springy Addon
+Author: Steve-luo
+Name: Hello Again
+
+Package: com.osito.leftsided
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheBigCheese2017
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist, com.alcovedevteam.fuse, com.fidele007.hotdog
+Filename: ./rebuilding/Left.deb
+Size: 2282756
+MD5sum: 300ab7364406b5a0380899edb7abc563
+SHA1: aa45911a4ff9051a8adcdb52676a0cdf3caeb131
+SHA256: be9c76d3c12e1567920cc34eba6473d5bdbaad3d7a3a95bce54b93b038c60979
+Section: Setups (LS)
+Homepage: https://raw.githubusercontent.com/DisJJ/DisJJ.github.io/master/Screenshots/Lockscreen/Left/Left.PNG
+Description: Uninstall any other LS Setup.
+Author: Osito
+Name: Left Sided
+
+Package: com.osito.pythonrespring
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheBigCheese2017
+Depends: mobilesubstrate (>= 0.9.5000), winterboard
+Filename: ./debs/respring logos/python respring/Python Respring.deb
+Size: 8150
+MD5sum: cc97a964d153b39612478ae1e20b1982
+SHA1: 246b0b11a8950a9336a28ec131fa2d34c8d31c3b
+SHA256: 5c26668a3002e109a9dd999706cf29b5eb28e38665af315f3c8218a151f76cf6
+Section: Themes (Repring Logos)
+Homepage: https://www.google.com
+Description: Python Respring Logo
+Author: Osito
+Name: Python Respring
+
+Package: com.osito.redsnowglitch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheBigCheese2017
+Depends: mobilesubstrate (>= 0.9.5000), com.aditkamath.springy
+Filename: ./debs/springy addons/redsn0w springy/Redsn0w Springy.deb
+Size: 5762902
+MD5sum: e8bab75ed601771fc8a8955574573788
+SHA1: 74598a6e71affba7f3dc4aa95b18830dbeee1439
+SHA256: 8a3dc1bc6fbfd876fe390d84903ffc17ea354f30452a243ba1a6b246909639c1
+Section: Addons (Springy)
+Homepage: https://www.google.com
+Description: Emulates the Redsn0w kernel panic
+Author: Unknown
+Name: Redsn0w Glitch Springy
+
 Package: com.osito.repoicons
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: TheBigCheese2017
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./tweaks/RepoIcons.deb
+Filename: ./debs/tweaks/RepoIcons.deb
 Size: 4242
 MD5sum: d0b4033ee5487c01dbda013212272d72
 SHA1: 4b130f89b674fd7695bf950b2e49c65e8066dbd3
@@ -45,4 +142,85 @@ Description: Repository Icons
 Tag: extension
 Author: Osito
 Name: Repo Icons
+
+Package: com.osito.rightsidedgeo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheBigCheese2017
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.fidele007.hotdog, com.alcovedevteam.fuse
+Filename: ./rebuilding/Right (Geo Sans Light Edition).deb
+Size: 2546116
+MD5sum: f57355f6cf3d6f59766f2fec18b2baa8
+SHA1: 1edf8ec8504b6787a5c2a4f30e61a8e93bc7e520
+SHA256: 0b5e0c7ccd1fdef8c70736d041a354626a01963e5ff2809aa2cabe5c921d0228
+Section: Setups (LS)
+Priority: optional
+Homepage: https://raw.githubusercontent.com/DisJJ/DisJJ.github.io/master/Screenshots/Lockscreen/Right%20(Geo%20Sans%20Light%20Edition)/Right%20(Geo%20Sans%20Light%20Edition).PNG
+Description: Put those things on the side. Be sure to have Geo Sans Light installed!!!!!!!!!!
+Author: Osito
+Name: Right Sided (Geo Sans Light Edition)
+
+Package: com.osito.sandy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheBigCheese2017
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.fidele007.hotdog, com.alcovedevteam.fuse
+Filename: ./rebuilding/Sandy.deb
+Size: 101840
+MD5sum: af51ebd839410a8a2855c43c1ad8c950
+SHA1: 73cb219d31992d47426f3e614a0c7ddf66b82a4e
+SHA256: 212ec49d78d4f81c7f148d994eead30eb96305b70ff29c902acadac06a0d7322
+Section: Setups (LS)
+Priority: optional
+Homepage: https://raw.githubusercontent.com/DisJJ/DisJJ.github.io/master/Screenshots/Lockscreen/Sandy/Sandy.PNG
+Description: This is absolutley stunning. Please install the Geo Sans Light Font to make it wonderful
+Author: Osito
+Name: Sandy
+
+Package: com.osito.saturated
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheBigCheese2017
+Depends: mobilesubstrate (>= 0.9.5000), me.chewitt.cmc
+Filename: ./debs/messages/Saturated.deb
+Size: 202692
+MD5sum: f81710993621ad1887db1cbaf7593847
+SHA1: d9cab4bd08dff5d8445f12a3e21b1c1316d596f2
+SHA256: 79282294d51dcf51f7054c9c7b343b077ba61bf6a4c8a0ab4f9420ea65f59258
+Section: Setups (Messages)
+Description: Pretty freaking beautiful setup. Lots of pinks. Still needs a screenshot for Github
+Author: Osito
+Name: Saturated
+
+Package: com.osito.stairs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheBigCheese2017
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.fidele007.hotdog, com.alcovedevteam.fuse
+Filename: ./rebuilding/Stairs.deb
+Size: 516702
+MD5sum: bd9ee6e20cb0114d3f78dd2a6dcaef24
+SHA1: aae7e06b3c292a1155223b306930aa3c1d0a89ac
+SHA256: fa8f4322236c807a6eeed566380c1998d0529fc27b8bf52ea94dd27900cb0f83
+Section: Setups (LS)
+Priority: optional
+Homepage: https://raw.githubusercontent.com/DisJJ/DisJJ.github.io/master/Screenshots/Lockscreen/Stairs/Stairs.PNG
+Description: Titled like stairs
+Author: Osito
+Name: Stairs
+
+Package: com.supernovasghost.spaceadventures
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheBigCheese2017
+Depends: mobilesubstrate (>= 0.9.5000), com.aditkamath.springy
+Filename: ./debs/springy addons/Space Adventures/Space Adventures.deb
+Size: 2099374
+MD5sum: 360e2dcc49ecd8b2a1727b618a1852d2
+SHA1: c2df34d0b025ce051124b222dd9528d731f21f33
+SHA256: a5426b718242f813953e55bf3fe5236580229909e00ef9b14ea41611d7fb0e98
+Section: Addons (Springy)
+Description: Fly through Space while respringing
+Author: SuperNovasGhost
+Name: Space Adventures
 

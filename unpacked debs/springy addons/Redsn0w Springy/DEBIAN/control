@@ -1,0 +1,10 @@
+Package: com.osito.redsnowglitch
+Name: Redsn0w Glitch Springy
+Version: 1.0
+Architecture: iphoneos-arm
+Author: Unknown
+Depends: mobilesubstrate (>= 0.9.5000), com.aditkamath.springy
+Description: Emulates the Redsn0w kernel panic
+Maintainer: TheBigCheese2017
+Section: Addons (Springy)
+Homepage: https://www.google.com

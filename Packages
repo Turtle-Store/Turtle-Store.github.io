@@ -90,12 +90,12 @@ Architecture: iphoneos-arm
 Maintainer: TheBigCheese2017
 Depends: mobilesubstrate (>= 0.9.5000), com.aditkamath.springy
 Filename: ./debs/springy addons/helloagain/HelloAgain.deb
-Size: 14487626
-MD5sum: 8806b81a79fcb040cebf106142f6be09
-SHA1: d26f27c9746222a2bfe563b16b55e18ca3c73a14
-SHA256: 08f55ddeedde4274add7f60a4f9544c618276d686c4488b21c19ee5e21d99c21
+Size: 14487684
+MD5sum: ff54c6c06c83f764fad2dfb870fa786a
+SHA1: ba409ee85c63dccea789921a52147184a2aaca0e
+SHA256: e2b2bda138319436f003c43b4a5b7d0656c364ddb46837df8a9e4f447ca4141f
 Section: Addons (Springy)
-Homepage: https://www.google.com
+Homepage: https://raw.githubusercontent.com/Turtle-Store/Turtle-Store.github.io/master/screenshots/springy%20addons/helloagain/Screenshot.png
 Description: Apple Event inspired Springy Addon
 Author: Steve-luo
 Name: Hello Again
@@ -138,12 +138,12 @@ Architecture: iphoneos-arm
 Maintainer: TheBigCheese2017
 Depends: mobilesubstrate (>= 0.9.5000), com.aditkamath.springy
 Filename: ./debs/springy addons/redsn0w springy/Redsn0w Springy.deb
-Size: 5762902
-MD5sum: e8bab75ed601771fc8a8955574573788
-SHA1: 74598a6e71affba7f3dc4aa95b18830dbeee1439
-SHA256: 8a3dc1bc6fbfd876fe390d84903ffc17ea354f30452a243ba1a6b246909639c1
+Size: 5762956
+MD5sum: 1623a30bbf5da7ad756eec24b93acfd6
+SHA1: 1a1260ffb5429674729d734c852e9e246cda6c03
+SHA256: 4d9f86286e08b2d032c9aaa3edcc62140fb65dbd034646202f57da7454397ea2
 Section: Addons (Springy)
-Homepage: https://www.google.com
+Homepage: https://raw.githubusercontent.com/Turtle-Store/Turtle-Store.github.io/master/screenshots/springy%20addons/redsn0w%20springy/Screenshot.png
 Description: Emulates the Redsn0w kernel panic
 Author: Unknown
 Name: Redsn0w Glitch Springy
@@ -237,11 +237,12 @@ Architecture: iphoneos-arm
 Maintainer: TheBigCheese2017
 Depends: mobilesubstrate (>= 0.9.5000), com.aditkamath.springy
 Filename: ./debs/springy addons/Space Adventures/Space Adventures.deb
-Size: 2099374
-MD5sum: 360e2dcc49ecd8b2a1727b618a1852d2
-SHA1: c2df34d0b025ce051124b222dd9528d731f21f33
-SHA256: a5426b718242f813953e55bf3fe5236580229909e00ef9b14ea41611d7fb0e98
+Size: 2101626
+MD5sum: aac1e4725262078e3c8b2af11212df10
+SHA1: dda391003347a78e936bb9f4b09bba85d096bcf9
+SHA256: fb5369eff5c5289ac79923034dc58724b139d27f6d6f4777dc2d794b0069adb9
 Section: Addons (Springy)
+Homepage: https://raw.githubusercontent.com/Turtle-Store/Turtle-Store.github.io/master/screenshots/springy%20addons/space%20adventures/screenshot.png
 Description: Fly through Space while respringing
 Author: SuperNovasGhost
 Name: Space Adventures

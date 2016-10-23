@@ -1,0 +1,10 @@
+Package: com.osito.pythonrespring
+Name: Python Respring
+Version: 1.0
+Architecture: iphoneos-arm
+Author: Osito
+Depends: mobilesubstrate (>= 0.9.5000), winterboard
+Description: Python Respring Logo
+Maintainer: TheBigCheese2017
+Section: Themes (Repring Logos)
+Homepage: https://raw.githubusercontent.com/Turtle-Store/Turtle-Store.github.io/master/screenshots/respring%20logos/Python%20Respring/Python%20Screenshot.png

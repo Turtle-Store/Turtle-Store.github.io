@@ -1,0 +1,10 @@
+Package: com.supernovasghost.spaceadventures
+Name: Space Adventures
+Version: 1.0
+Architecture: iphoneos-arm
+Author: SuperNovasGhost
+Depends: mobilesubstrate (>= 0.9.5000), com.aditkamath.springy
+Description: Fly through Space while respringing
+Maintainer: TheBigCheese2017
+Section: Addons (Springy)
+Homepage: https://raw.githubusercontent.com/Turtle-Store/Turtle-Store.github.io/master/screenshots/springy%20addons/space%20adventures/screenshot.png
